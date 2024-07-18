@@ -1,7 +1,20 @@
 # aurora-flow-engine
 engine core service
 
+<div align="center">
+    <img src="https://img0.baidu.com/it/u=1123362939,2689988311&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500" width="128px">
+</div>
 
+<br/>
+
+<div align="center">
+     <span style="font-size:36px;font-weight:bolder;color:#515151;">xjd_account_core&nbsp;·&nbsp;aurora-flow-engine</span>
+</div>
+
+<br/>
+
+- **架构**: 基于干净架构的DDD脚手架
+- **说明**: 统一DDD脚手架开发
 
 ## DDD项目架构分层
 
@@ -40,3 +53,27 @@ engine core service
 |      |--- service              -- 查询服务
 |--- common                       -- 定义Domain Primitive
 ```
+
+## 技术选型
+
+
+
+
+
+
+## 扩展资料
+1. xxx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
